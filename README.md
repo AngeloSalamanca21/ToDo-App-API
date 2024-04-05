@@ -20,7 +20,7 @@ This is a task management project designed to help you organize your daily activ
 1. Clona el repositorio
 
    ```sh
-   git clone https://github.com/josuereyes16/backend-ToDoApp.git
+   https://github.com/AngeloSalamanca21/ToDo-App-API.git
    ```
 
 <h2>Autor</h2>
